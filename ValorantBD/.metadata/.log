@@ -1,0 +1,11 @@
+!SESSION 2022-07-20 18:16:57.569 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_281
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.ui 2 0 2022-07-20 18:17:09.478
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2022-07-20 18:17:09.478
+!MESSAGE Cannot bind to an undefined command: plug-in='br.ufpe.cin.eercase.diagram', id='eer.diagram.updateDiagram'
