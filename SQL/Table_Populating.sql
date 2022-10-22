@@ -184,7 +184,7 @@ INSERT INTO Amizade VALUES(
 
 INSERT INTO Amizade VALUES(
     'Renemoo',
-    'Ana Bollizant'
+    'Ana Bollizzant'
 );
 
 INSERT INTO Amizade VALUES(
@@ -199,7 +199,7 @@ INSERT INTO Amizade VALUES(
 
 INSERT INTO Amizade VALUES(
     'Trap Pillow',
-    'Ana Bollizant'
+    'Ana Bollizzant'
 );
 
 INSERT INTO Amizade VALUES(
