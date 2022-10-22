@@ -290,37 +290,37 @@ INSERT INTO Skin VALUES(
 
 INSERT INTO Possuem VALUES(
     'kkmr',
-    'Phantom Oni'
+    2
 );
 
 INSERT INTO Possuem VALUES(
     'kkmr',
-    'Classic Glitchpop'
+    0
 );
 
 INSERT INTO Possuem VALUES(
     'Delaunay',
-    'Bucky Crise Radiante 001'
+    3
 );
 
 INSERT INTO Possuem VALUES(
     'Delaunay',
-    'Operator Ancifogo'
+    5
 );
 
 INSERT INTO Possuem VALUES(
     'Delaunay',
-    'Phantom Oni'
+    2
 );
 
 INSERT INTO Possuem VALUES(
     'IBRAHIM',
-    'Confronto Ancifogo'
+    8
 );
 
 INSERT INTO Possuem VALUES(
     'Renemoo',
-    'Phantom Oni'
+    2
 );
 
 INSERT INTO Partida VALUES(
