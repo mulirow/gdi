@@ -181,6 +181,11 @@ INSERT INTO Mapa VALUES(
     2
 );
 
+INSERT INTO Mapa VALUES(
+    'Pearl',
+    2
+);
+
 INSERT INTO Skin VALUES(
     0,
     'Classic Glitchpop',
@@ -235,4 +240,59 @@ INSERT INTO Skin VALUES(
     8,
     'Confronto Ancifogo',
     4950
+);
+
+INSERT INTO Partida VALUES(
+    0,
+    'Haven'
+);
+
+INSERT INTO Participa VALUES(
+    0, 
+    'Renemoo',
+    'KAY/O',
+    14,
+    18,
+    5
+);
+
+INSERT INTO Participa VALUES(
+    0, 
+    'Trap Pillow',
+    'Cypher',
+    22,
+    14,
+    1
+);
+
+INSERT INTO Partida VALUES(
+    1, 
+    'Pearl'
+);
+
+INSERT INTO Participa VALUES(
+    1,
+    'Renemoo',
+    'Raze',
+    27,
+    10,
+    5
+);
+
+INSERT INTO Participa VALUES(
+    1,
+    'Bombacate',
+    'Yoru',
+    13,
+    9,
+    7
+);
+
+INSERT INTO Participa VALUES(
+    1,
+    'KORZIN',
+    'Breach',
+    17,
+    8,
+    11
 );
