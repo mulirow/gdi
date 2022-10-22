@@ -154,11 +154,57 @@ INSERT INTO Jogador VALUES(
 );
 
 INSERT INTO Jogador VALUES(
+    'Delaunay'
+);
+
+INSERT INTO Jogador VALUES(
     'KORZIN'
 );
 
 INSERT INTO Jogador VALUES(
     'Trap Pillow'
+);
+
+INSERT INTO Jogador VALUES(
+    'ElMaciota'
+);
+
+INSERT INTO Jogador VALUES(
+    'MicroconsDelxs'
+);
+
+INSERT INTO Jogador VALUES(
+    'IBRAHIM'
+)
+
+INSERT INTO Amizade VALUES(
+    'Trap Pillow',
+    'Renemoo'
+);
+
+INSERT INTO Amizade VALUES(
+    'Renemoo',
+    'Ana Bollizanti'
+);
+
+INSERT INTO Amizade VALUES(
+    'Renemoo',
+    'KORZIN'
+);
+
+INSERT INTO Amizade VALUES(
+    'KORZIN',
+    'Bombacate'
+);
+
+INSERT INTO Amizade VALUES(
+    'Trap Pillow',
+    'Ana Bollizanti'
+);
+
+INSERT INTO Amizade VALUES(
+    'kkmr',
+    'Renemoo'
 );
 
 INSERT INTO Mapa VALUES(
@@ -242,13 +288,53 @@ INSERT INTO Skin VALUES(
     4950
 );
 
+INSERT INTO Possuem VALUES(
+    'kkmr',
+    'Phantom Oni'
+)
+
+INSERT INTO Possuem VALUES(
+    'kkmr',
+    'Classic Glitchpop'
+)
+
+INSERT INTO Possuem VALUES(
+    'Delaunay',
+    'Bucky Crise Radiante 001'
+)
+
+INSERT INTO Possuem VALUES(
+    'Delaunay',
+    'Operator Ancifogo'
+)
+
+INSERT INTO Possuem VALUES(
+    'Delaunay',
+    'Phantom Oni'
+)
+
+INSERT INTO Possuem VALUES(
+    'IBRAHIM',
+    'Confronto Ancifogo'
+)
+
+INSERT INTO Possuem VALUES(
+    'Renemoo',
+    'Phantom Oni'
+)
+
 INSERT INTO Partida VALUES(
     0,
     'Haven'
 );
 
+INSERT INTO Partida VALUES(
+    1,
+    'Pearl'
+);
+
 INSERT INTO Participa VALUES(
-    0, 
+    0,
     'Renemoo',
     'KAY/O',
     14,
@@ -257,7 +343,7 @@ INSERT INTO Participa VALUES(
 );
 
 INSERT INTO Participa VALUES(
-    0, 
+    0,
     'Trap Pillow',
     'Cypher',
     22,
@@ -265,9 +351,22 @@ INSERT INTO Participa VALUES(
     1
 );
 
-INSERT INTO Partida VALUES(
-    1, 
-    'Pearl'
+INSERT INTO Participa VALUES(
+    0,
+    'Bombacate',
+    'Yoru',
+    11,
+    18,
+    2
+);
+
+INSERT INTO Participa VALUES(
+    0,
+    'IBRAHIM',
+    'Raze',
+    14,
+    17,
+    4
 );
 
 INSERT INTO Participa VALUES(
@@ -277,6 +376,15 @@ INSERT INTO Participa VALUES(
     27,
     10,
     5
+);
+
+INSERT INTO Participa VALUES(
+    1,
+    'MicroconsDelxs',
+    'Viper',
+    7,
+    12,
+    3
 );
 
 INSERT INTO Participa VALUES(
