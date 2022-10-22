@@ -175,7 +175,7 @@ INSERT INTO Jogador VALUES(
 
 INSERT INTO Jogador VALUES(
     'IBRAHIM'
-)
+);
 
 INSERT INTO Amizade VALUES(
     'Trap Pillow',
@@ -291,37 +291,37 @@ INSERT INTO Skin VALUES(
 INSERT INTO Possuem VALUES(
     'kkmr',
     'Phantom Oni'
-)
+);
 
 INSERT INTO Possuem VALUES(
     'kkmr',
     'Classic Glitchpop'
-)
+);
 
 INSERT INTO Possuem VALUES(
     'Delaunay',
     'Bucky Crise Radiante 001'
-)
+);
 
 INSERT INTO Possuem VALUES(
     'Delaunay',
     'Operator Ancifogo'
-)
+);
 
 INSERT INTO Possuem VALUES(
     'Delaunay',
     'Phantom Oni'
-)
+);
 
 INSERT INTO Possuem VALUES(
     'IBRAHIM',
     'Confronto Ancifogo'
-)
+);
 
 INSERT INTO Possuem VALUES(
     'Renemoo',
     'Phantom Oni'
-)
+);
 
 INSERT INTO Partida VALUES(
     0,
