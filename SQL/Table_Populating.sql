@@ -404,3 +404,38 @@ INSERT INTO Participa VALUES(
     8,
     11
 );
+
+INSERT INTO Mata VALUES(
+    'KORZIN',
+    'Renemoo',
+    'Stinger',
+    69
+);
+
+INSERT INTO Mata VALUES(
+    'Bombacate',
+    'Risky Business',
+    'Vandal',
+    24
+);
+
+INSERT INTO Mata VALUES(
+    'Bombacate',
+    'Trap Pillow',
+    'Vandal',
+    15
+);
+
+INSERT INTO Mata VALUES(
+    'kkmr',
+    'Trap Pillow',
+    'Vandal',
+    14
+);
+
+INSERT INTO Mata VALUES(
+    'Renemoo',
+    'KORZIN',
+    'Faca',
+    13
+);
