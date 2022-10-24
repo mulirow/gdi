@@ -9,8 +9,8 @@ WHERE ((P.KILLS + P.ASSISTS)/P.DEATHS) >
 -- Jogadores que não participaram de partidas, mas que possuem skins e amigos (sometimes it's about money and bitches)
 
 -- Possuem | Participa | Amizade
--- 0 0 0 - Jano
--- 0 0 1 - Risky Business
+-- 0 0 0 - ElMaciota
+-- 0 0 1 - Ana Bollizzant
 -- 0 1 0 - MicroconsDelxs
 -- 0 1 1 - Trap Pillow
 -- 1 0 0 - Delaunay
